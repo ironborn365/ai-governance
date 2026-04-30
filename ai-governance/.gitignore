@@ -1,0 +1,24 @@
+# 機微情報・個人ファイル
+.env
+.env.*
+!.env.example
+*.local.md
+secrets/
+private/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 一時ファイル
+*.tmp
+*.bak
+*.swp
+~*
+
+# ログ
+*.log
+
+# このリポジトリは governance 文書専用。コードや個人情報は持ち込まない。
