@@ -1,5 +1,7 @@
 # AI Governance Documents
 
+> **2026-10-10 更新**：現行のルールは [`common-rules.md`](./common-rules.md)。以下の表の4文書と「Notion が正典」の記述は 2026-04-30 時点のもので失効。正本は各PCの `~/.claude/CLAUDE.md`。
+
 このリポジトリはOniku個人のAIエージェント運用に関するガバナンス文書群を、**全AIツールから等しくアクセスできる中立な場所**として公開するためのもの。
 
 ## 想定読者

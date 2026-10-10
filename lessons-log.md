@@ -1,3 +1,5 @@
+> **失効（2026-10-10）**：この文書は 2026-04-30 時点の旧版で、現行のルールと食い違う箇所がある（例：正本は Notion ではなく md、保管庫の場所）。現行は [common-rules.md](https://raw.githubusercontent.com/ironborn365/ai-governance/main/common-rules.md) を見る。履歴として残している。
+
 # ⚠️ Claude行動教訓ログ
 
 利用者が疑いを持ったとき、AIはこのページを参照して自分の判断を見直す。

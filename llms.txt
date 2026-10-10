@@ -1,20 +1,15 @@
 # Oniku AI Governance
 
-> Oniku個人のAIエージェント運用に関するガバナンス文書群。Claude / Claude Code / Cowork / Gemini / ChatGPT / その他AIアシスタントが共通で参照する中立な配信レイヤー。
+> AIエージェント（Claude / Claude Code / Codex など）が共通で従うルールの配信場所。ローカルの正本を読めない環境（クラウド・スマホ・claude.ai）はここから読む。
 
-## ガバナンス文書
+## 現行
 
-- [AI連携・ツール引継ぎ憲章](https://raw.githubusercontent.com/ironborn365/ai-governance/main/ai-handoff-charter.md): すべてのAIが準拠すべき4つの行動原則(スタック把握/引継ぎ提案/追加提案/提案記録)とツールスタック現状
-- [Claude行動教訓ログ](https://raw.githubusercontent.com/ironborn365/ai-governance/main/lessons-log.md): 過去の失敗事例と禁則チェックリスト(#001〜#012)
-- [AIエージェント運用ガイド](https://raw.githubusercontent.com/ironborn365/ai-governance/main/agent-operation-guide.md): セッション開始時の自己診断・リソース配置・迷子パターン対処
-- [Claude Code 自律実行パターン集](https://raw.githubusercontent.com/ironborn365/ai-governance/main/claude-code-autonomy-patterns.md): 認証永続化・subagent設計・最大限引継ぎの実証原則
+- [共通ルール](https://raw.githubusercontent.com/ironborn365/ai-governance/main/common-rules.md): 全AI共通の作業ルール。各PCの `~/.claude/CLAUDE.md` から個人情報と環境固有の記載を除いた写し（2026-10-10 時点）。これを前提として従う
 
-## 補助資料
+## 失効（履歴として残す。判断の根拠に使わない）
 
-- [README](https://raw.githubusercontent.com/ironborn365/ai-governance/main/README.md): リポジトリ全体の説明と使い方
-- [llms-full.txt](https://raw.githubusercontent.com/ironborn365/ai-governance/main/llms-full.txt): 全文書を1ファイルに連結したもの(コンテキストインジェスト用)
-
-## Optional
-
-- 正典(Notion)からの本リポジトリへの同期は手動。差異があれば Notion 優先。
-- 本リポジトリは読み取り用ミラー。直接編集せずNotionで編集してから反映。
+- [AI連携・ツール引継ぎ憲章](https://raw.githubusercontent.com/ironborn365/ai-governance/main/ai-handoff-charter.md): 2026-04-30 版
+- [Claude行動教訓ログ](https://raw.githubusercontent.com/ironborn365/ai-governance/main/lessons-log.md): 2026-04-30 版
+- [AIエージェント運用ガイド](https://raw.githubusercontent.com/ironborn365/ai-governance/main/agent-operation-guide.md): 2026-04-30 版
+- [Claude Code 自律実行パターン集](https://raw.githubusercontent.com/ironborn365/ai-governance/main/claude-code-autonomy-patterns.md): 2026-04-30 版
+- [llms-full.txt](https://raw.githubusercontent.com/ironborn365/ai-governance/main/llms-full.txt): 上記4文書の連結（2026-04-30 版）

@@ -1,3 +1,5 @@
+> **失効（2026-10-10）**：この文書は 2026-04-30 時点の旧版で、現行のルールと食い違う箇所がある（例：正本は Notion ではなく md、保管庫の場所）。現行は [common-rules.md](https://raw.githubusercontent.com/ironborn365/ai-governance/main/common-rules.md) を見る。履歴として残している。
+
 # 📐 Claude Code 自律実行パターン集
 
 **位置づけ:** 憲章(WHAT原則) / 教訓ログ(WHY-NOT 失敗事例) / 運用ガイド(HOW-WHERE ナビ) と並ぶ第4層。「**実証された自律実行の型**」を蓄積する。

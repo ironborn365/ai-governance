@@ -1,3 +1,5 @@
+> **失効（2026-10-10）**：この文書は 2026-04-30 時点の旧版で、現行のルールと食い違う箇所がある（例：正本は Notion ではなく md、保管庫の場所）。現行は [common-rules.md](https://raw.githubusercontent.com/ironborn365/ai-governance/main/common-rules.md) を見る。履歴として残している。
+
 # 🤖 AI連携・ツール引継ぎ憲章
 
 Onikuが利用するすべてのAI(Claude / Claude Code / Cowork / Gemini Pro / Cursor統合AI / その他)が**共通で参照・準拠する**メタ行動指針。
